@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-con
-tent
-madira
-=======
 conte
 nt
 spain
->>>>>>> my_branch

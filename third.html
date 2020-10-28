@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link rel="stylesheet" href="styles/index.css" type="text/css" />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&family=Open+Sans:wght@600&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
 </head>
 <body>
-    <header>
+    <div class="container">
+    <header class="wrapper">
         <div class="logo-image">
             <a href="#">
-        <img src="./images/./logo.png" width="100" alt="Logo">
+        <img src="./images/./logo.png" width="195" height="28" alt="Logo">
     </a>
         </div>
     <nav class="main-nav">
@@ -19,12 +24,13 @@
         <a class="nav-element" href="#">Blog</a>
         <button type="button">Sign in</button>
         <button type="button">Login</button>
+        
     </nav>
     </header>
     <main>
         <section>
             <div class="freehand-your-brand-with-a-beautiful-website">
-                <h1>Freehand your brand with a beautiful website</h1>
+                <h1>Freehand your <br> brand with a <br> beautiful website</h1>
                 <div>
                     <div>
                        <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit.</p>
@@ -49,20 +55,20 @@
                      <h2>We build experience</h2>
                      <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .</p>
                  </div>
-                 <div>
-                     <div>
+                 <div class="cards">
+                     <div class="onecard">
                          <img src="./images/./Shape.png" width="20" alt="Shape">
                          <h4>Design</h4>
                          <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .</p>
                          <a href="#">Learn more</a>
                      </div>
-                     <div>
+                     <div class="onecard">
                          <img src="./images/./Group 3@2x.png" width="20" alt="Image">
                          <h4>Ecommerce</h4>
                          <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .</p>
                          <a href="#">Learn more</a>
                      </div>
-                     <div>
+                     <div class="onecard">
                          <img src="./images/./Group 2.png" width="20" alt="Image">
                          <h4>Application</h4>
                          <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .</p>
@@ -78,13 +84,17 @@
                      <h2>We build experience</h2>
                      <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .</p>
                  </div>
-                 <div>
-                    <div style="background-image:url('./images/./Banners.png'); width: 555px; height: 485px">
-                        <div style="position: relative; top: 10px; left: 30px">120 million curious readers and growing.</div>
-                    </div>
-                    <div style="background-image:url('./images/./Rectangle Copy 6.png'); width: 555px; height: 485px">
-                        <div style="position: relative; top: 10px; left: 30px">Expand your reading.</div>
-                        <div style="position: relative; top: 10px; left: 30px">Expand your mind.</div>
+                 <div class="cards-images">
+                     <div class="onecard-images">
+                         <div style="background-image:url('./images/./Banners.png'); width: 555px; height: 485px">
+                             <div class="bottom-left">120 million curious readers <br> and growing.</div>
+                         </div>
+                     </div>
+                     <div class="onecard-images2">
+                         <div style="background-image:url('./images/./Rectangle Copy 6.png'); width: 555px; height: 485px">
+                             <div class="text-first">Expand your reading.</div>
+                             <div class="text-second">Expand your mind.</div>
+                         </div>    
                     </div>
                  </div>
              </div>
@@ -95,83 +105,87 @@
                      <h2>Choose the plan that’s right for your business</h2>
                      <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit. Suspendisse varius enim in eros .</p>
                  </div>
-                 <div>
-                     <div>
-                         <img src="./images/./Lineb.png" width="40" alt="Line">
-                         <p>Started plan</p>
-                         <p>Free</p>
-                         <p>per month</p>
-                         <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit.</p>
-                         <button type="button">Get Started</button>
+                 <div class="cards-new">
+                     <div class="cards-new-1">
+                         <img src="./images/./Lineb.png" class="image-new-1" width="40" alt="Line">
+                         <p class="p1">Started plan</p>
+                         <p class="p11">Free</p>
+                         <p class="p111">per month</p>
+                         <p class="p1111">Lorem ipsum dolor sit amet, <br> coectetur adipiscing elit.</p>
+                         <button type="button" style="width:180px; height: 50px; background-color: #fffff; border-radius:40px; border: #fffff; margin-left: 200px">Get Started</button>
                      </div>  
-                     <div>  
-                         <img src="./images/./Lineg.png" width="40" alt="Line">
-                         <p>Started plan</p>
-                         <p>$20.00</p>
-                         <p>per month</p>
-                         <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit.</p>
-                         <button type="button">Get Started</button>
+                     <div class="cards-new-2">  
+                         <img src="./images/./Lineg.png" class="image-new-2" width="40" alt="Line">
+                         <p class="p2">Started plan</p>
+                         <p class="p22">$20.00</p>
+                         <p class="p222">per month</p>
+                         <p class="p2222">Lorem ipsum dolor sit amet, <br> coectetur adipiscing elit.</p>
+                         <button type="button" style="width:180px; height: 50px; background-color: #fffff; border-radius:40px; border: #fffff; margin-left: 100px">Get Started</button>
                      </div>
-                     <div>
-                         <img src="./images/./Liner.png" width="40" alt="Line">
-                         <p>Started plan</p>
-                         <p>$50.00</p>
-                         <p>per month</p>
-                         <p>Lorem ipsum dolor sit amet, coectetur adipiscing elit.</p>
-                         <button type="button">Get Started</button>
+                     <div class="cards-new-3">
+                         <img src="./images/./Liner.png" class="image-new-3" width="40" alt="Line">
+                         <p class="p3">Started plan</p>
+                         <p class="p33">$50.00</p>
+                         <p class="p333">per month</p>
+                         <p class="p3333">Lorem ipsum dolor sit amet, <br> coectetur adipiscing elit.</p>
+                         <button type="button" style="width:180px; height: 50px; background-color: #16133E; border-radius:40px; border: #fffff; margin-left: 100px">Get Started</button>
                      </div>
                  </div>
              </div>
          </section>
          <section>
-            <div style="background-image:url('./images/./Rectangle Copy 13.png'); width: 1152px; height: 387px">
-                 <div style="position: relative; top: 10px; left: 30px">Get started today and try 30 days free</div>
-                 <div style="position: relative; top: 10px; left: 30px">No contact, no set-up costs, just awesome way to organise your money.</div>
-                 <button type="button">Try it for free</button>
-                 <button type="button">Watch Demo</button>
+            <div style="background-image:url('./images/./Rectangle Copy 13.png'); width: 1152px; height: 387px; margin: auto; margin-top: 190px">
+                <div style="position: relative; top: 10px; left: 30px; font-size: 40px; color: white; text-align: center;">Get started today and try 30 days free</div>
+                 <div style="position: relative; top: 10px; left: 30px; font-size: 18px; color: white; text-align: center;">No contact, no set-up costs, just awesome way to organise your money.</div>
+                 <div class="buttons">
+                 <button type="button" style="width: 192px; height: 50px; color: black; border-radius: 42px; border-color: white;">Try it for free</button>
+                 <button type="button" style="width: 192px; height: 50px; color: white; border-radius: 42px; border-color: white;">Watch Demo</button>
+                </div>     
             </div>
          </section> 
          <section>
-             <div class="request-further-information">
-                 <h2>Request further information</h2>
-                 <div>
-                     <form>
-                         <form action="get.html" method="GET" autocomplete="off">
-                             <label for="email">Email</label><br>
-                             <input type="text" id="email" name="email"><br>
+            <div class="requeest-further-information">
+                <h3>Request further information</h3>
+                <div>
+                    <form>
+                        <form action="https://qna.habr.com/question/ivc" method="POST" autocomplete="off" style="padding-left: 20%; padding-right: 20%;">
+                            <label for="email">Email</label><br>
+                            <input type="email" id="email" name="email" style="width: 100%; height: 52px;"><br>
 
-                             <label for="firstname">First name</label><br>
-                             <input type="text" id="firstname" name="firstname"><br>
+                            <label for="firstname">First name</label><br />
+                            <input type="text" id="firstname" name="firstname" style="width: 100%; height: 52px;"><br>
 
-                             <label for="lastname">Last name</label><br>
-                             <input type="text" id="lastname" name="lastname"><br>
+                            <label for="lastname">Last name</label><br>
+                            <input type="text" id="lastname" name="lastname" style="width: 100%; height: 52px;"><br>
 
-                             <label for="companyname">Company name</label><br>
-                             <input type="text" id="companyname" name="companyname"><br>
+                            <label for="companyname">Company name</label><br>
+                            <input type="text" id="companyname" name="companyname" style="width: 100%; height: 52px;"><br> 
 
-                             <label for="phonenumber">Phone number</label><br>
-                             <input type="text" id="phonenumber" name="phonenumber"><br>
+                            <label for="phonenumber">Phone number</label><br>
+                            <input type="number" id="phonenumber" name="phonenumber" style="width: 100%; height: 52px;"><br>
 
-                             <label for="yourmessage">Your message</label><br>
-                             <input type="text" id="yourmessage" name="yourmessage"><br>
+                            <label for="yourmessage">Your message</label><br>
+                            <input type="text" id="yourmessage" name="yourmessage" style="width: 100%; height: 52px;"><br> 
+                       
+                            <input type="checkbox" id="terms" name="terms" />
+                            <label for="terms">I agree for a representation of something</label><br>
 
-                             <input type="checkbox" id="terms" name="terms" /> 
-                             <label for="terms">I agree for a representation of something</label><br>
-
-                             <input type="checkbox" id="terms" name="terms" /> 
-                             <label for="terms">Please, also subscribe to our newsletter</label><br>
-                         </form>
+                            <input type="checkbox" id="terms" name="terms" />
+                            <label for="terms">Please, also subscribe to our newsletter</label><br>
                         </form>
-                        <div>    
-                             <input type="submit" value="Submit" />
-                         </div>    
-                     </div>
-                 </div>        
-                     <h6>Please, find out our Privacy Policy <a href="#">here</a></h6>
-         </section>            
+                        <div class="buttonsumbit">
+                            <input type="submit" value="Submit" style="width: 700px; height: 50px; background-color: #4A90E2; border-radius: 4px; border: #4A90E2;"/>
+                        </div>
+                </div>
+                <div>
+                    <p>Please, find out our Privacy Policy <a class="link" href="#"><ins>here</ins></a></p> 
+                </div>
+            </div>
+        </section>
 </main>
 <footer>
      <div class="footer">
+         <div class="stline">
          <div>
              <img src="./images/./logo.png" width="196" alt="Logo"> 
              <p>We're brand strategy and digital design agency, building brands that matter in culture.</p>
@@ -209,10 +223,12 @@
                 <img src="./images/./image 7.png" width="106" alt="Logo"> 
             </ul>
          </div>
-         <div>
+        </div>
+         <div style="background-color: #16143D">
             <p>Copyright © 2020. Crafted with love.</p> 
          </div>
      </div>
 </footer>
+</div>
 </body>
 </html>

@@ -1,0 +1,379 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+
+.container {
+    margin: auto;
+    width: 1440px;
+}
+
+header{
+    background-color: #ffffff;
+    height: 118px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.wrapper{
+    max-width: 1280px;
+    margin: auto;
+}
+
+.logo-image{
+    margin: auto;
+    margin-left: 0px;
+}
+
+.main-nav{
+    margin: auto;
+    margin-right: 0px;
+}
+
+.nav-element{
+    text-decoration: none;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 62px;
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+    font-weight: SemiBold;
+    vertical-align: text-top;
+    font-size: 56px;
+    margin-left: 156px;
+    line-height: 68px;
+}
+
+.freehand-your-brand-with-a-beautiful-website p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    margin-left: 156px;
+    line-height: 36px;
+    text-align: left;
+    font-size: 19px;
+    margin-top: 25px;  
+  } 
+
+.freehand-your-brand-with-a-beautiful-website button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+    margin-left: 156px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 51px;  
+  } 
+
+.freehand-your-brand-with-a-beautiful-website img {
+    margin-left: 698px;
+    margin-top: -550px;
+  } 
+
+.our-services h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    margin-left: 180px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 184px;  
+  } 
+
+  .our-services h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: SemiBold;
+    margin-left: 180px;
+    text-align: left;
+    font-size: 40px;
+  }
+
+  .our-services p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    margin-left: 180px;
+    text-align: left;
+    font-size: 18px;
+  }      
+
+  .cards {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .onecard {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .our-services-images h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    margin-left: 159px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 145px;  
+  } 
+
+  .our-services-images h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: SemiBold;
+    margin-left: 159px;
+    text-align: left;
+    font-size: 40px;
+  }
+
+  .our-services-images p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 91px;
+    margin-left: 159px;
+  }    
+   
+  .cards-images {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .onecard-images {
+    display: block;
+    text-align: center;
+    margin-left: 159px;
+    margin-right: 47px;
+  }
+
+  .bottom-left {
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 36px;
+    margin-top: 344px;
+    margin-left: 48px;
+    text-align: left;
+  }
+
+  .onecard-images2 {
+    display: block;
+    text-align: center;
+    margin-left: 47px;
+    margin-right: 124px;
+  }
+
+  .text-first {
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 36px;
+    margin-top: 344px;
+    margin-left: 48px;
+  }
+
+  .text-second {
+    position: absolute;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 36px;
+    margin-top: 384px;
+    margin-left: 48px;
+  }
+
+  .Choose-the-plan-that’s-right-for-your-business h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: SemiBold;
+    margin-left: 149px;
+    text-align: left;
+    font-size: 40px;
+    margin-top: 193px;
+  }
+
+  .Choose-the-plan-that’s-right-for-your-business p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: left;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 149px;
+  }
+
+.cards-new {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+  }
+
+.image-new-1 {
+    height: 4px;
+    width: 362px;
+    margin: auto;
+    display: block;
+    margin-left: 151px;
+    margin-top: 84px;
+}
+
+.image-new-2 {
+    height: 4px;
+    width: 362px;
+    margin: auto;
+    display: block;
+    margin-left: 26px;
+    margin-top: 84px;
+}
+
+.image-new-3 {
+    height: 4px;
+    width: 362px;
+    margin: auto;
+    display: block;
+    margin-right: 151px;
+    margin-top: 84px;
+}
+
+.cards-new-1 .p1 {
+font-family: 'Roboto', sans-serif;
+font-weight: regular;
+text-align: center;
+font-size: 24px;
+margin-top: 54px;
+margin-bottom: 31px;
+}
+
+.cards-new-2 .p2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 54px;
+    margin-bottom: 31px;
+}
+
+.cards-new-3 .p3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 54px;
+    margin-bottom: 31px;
+}
+
+.cards-new-1 .p11 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 4px;
+    color: #0593FA;
+}
+
+.cards-new-2 .p22 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 4px;
+    color: #56CBAE;
+}
+
+.cards-new-3 .p33 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 4px;
+    color: #FA6770;
+}
+
+.cards-new-1 .p111 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 32px;
+    color: #87A1B6;
+}
+
+.cards-new-2 .p222 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 32px;
+    color: #87A1B6;
+}
+
+.cards-new-3 .p333 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 32px;
+    color: #87A1B6;
+}
+
+.cards-new-1 .p1111 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 54px;
+    color: #87A1B6;
+}
+
+.cards-new-2 .p2222 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 54px;
+    color: #87A1B6;
+}
+
+.cards-new-3 .p3333 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 54px;
+    color: #87A1B6;
+}
+
+.cards-new-1 .button {
+    margin:0 auto; 
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.stline{
+    background-color: #16143D;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+
+
+
+   

@@ -38,7 +38,30 @@ header{
     text-decoration: none;
     font-weight: 400;
     color: #000000;
-    margin-left: 62px;
+    margin-left: 140px;
+}
+
+.buttonn {
+    margin-left: 143px;
+    width: 80px;
+    height: 46px;
+    background-color: white;
+    border: black; 
+    border-radius: 8px;
+    border-color: black; 
+    color: black;
+    font-size: 16px;
+
+}
+
+.buttonnn{
+    margin-left: 16px;
+    width: 80px;
+    height: 46px;
+    background-color: #16133E;
+    border-radius: 5;
+    color: white;
+
 }
 
 h1 {
@@ -64,7 +87,6 @@ h1 {
 .freehand-your-brand-with-a-beautiful-website button {
     font-family: 'Roboto', sans-serif;
     font-weight: medium;
-    margin-left: 156px;
     text-align: left;
     font-size: 16px;
     margin-top: 51px;  
@@ -82,6 +104,7 @@ h1 {
     text-align: left;
     font-size: 16px;
     margin-top: 184px;  
+    color: #87A1B6;
   } 
 
   .our-services h2 {
@@ -98,6 +121,7 @@ h1 {
     margin-left: 180px;
     text-align: left;
     font-size: 18px;
+    color: #5A7184;
   }      
 
   .cards {
@@ -121,6 +145,7 @@ h1 {
     text-align: left;
     font-size: 16px;
     margin-top: 145px;  
+    color: #87A1B6;
   } 
 
   .our-services-images h2 {
@@ -138,6 +163,7 @@ h1 {
     font-size: 18px;
     margin-bottom: 91px;
     margin-left: 159px;
+    color: #5A7184;
   }    
    
   .cards-images {
@@ -208,6 +234,7 @@ h1 {
     font-size: 18px;
     margin-top: 15px;
     margin-left: 149px;
+    color: #5A7184; 
   }
 
 .cards-new {
@@ -361,19 +388,88 @@ margin-bottom: 31px;
     justify-content: space-around;
     flex-direction: row;
     align-items: center;
-    margin-top: 200px;
 }
 
-.stline{
-    background-color: #16143D;
+.footer{
     display: flex;
     justify-content: space-around;
     flex-direction: row;
     align-items: center;
 }
 
+.requeest-further-information h3{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 42px;
+}
 
+.buttonsumbit{
+    text-align: center;
+}
 
+.fields{
+    margin-left: 370px;
+    margin-right: 370px;
+}
 
+.checkbox{
+    margin-left: 370px;
+    margin-top: 30px;
+    margin-bottom: 43px;
+}
 
+.line1{
+    color: white;
+    
+}
+
+.line2{
+    color: white;
+    margin-top: 130px;
+}
+
+.line3{
+    color: white;
+    margin-top: 90px;
+}
    
+.line4{
+    color: white;
+
+}
+
+.line2 ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.line3 ul{
+    list-style-type: none;
+}
+
+.line4 ul{
+    list-style-type: none;
+}
+
+.line2 a{
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+.line3 a{
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+.line4 a{
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+.last-line{
+    margin-bottom: 50px;
+    background-color: #16143D;
+}

@@ -232,5 +232,47 @@
     </div>
 </footer>
 </div>
+<section class="modal"> <!-- При написании с "modal" hidden, мы прячем попап. С JS мы его сможем закрыть-->
+    <button class="modal-close"></button>
+    <div class="b-auth-form">
+        <div class="b-popup-h">Log into your account</div>
+        <form class="auth-form" method="post" action="/">
+            <div class="b-hold">
+                <input
+                    type="text"
+                    placeholder="Username/Email"
+                    tabindex="4"
+                />
+                <input
+                    type="password"
+                    placeholder="Password"
+                    tabindex="5"  
+                />
+            </div>
+            <div class="b-hold">
+                <input
+                    value="Log In"
+                    tabindex="6"
+                    type="submit"
+                    disabled=""
+                />
+            </div>
+            <div class="b-hold b-hold--add">
+                <span class="b-remember">
+                    <label class="login-checkbox" tabindex="7">
+                        <input
+                            name="remember"
+                            type="checkbox"
+                            checked="checked"
+                            class="hidden"
+                        />
+                        <span class="checkbox-indicator"></span>
+                    Remember me</label>
+                </span> 
+                <a class="b-auth-recall" href="#" tabindex="8">Forgot password?</a>
+            </div>
+        </form>
+    </div>
+</section>
 </body>
 </html>

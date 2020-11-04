@@ -1,1 +1,460 @@
-body,header{background-color:#fff}body{font-family:'Roboto',sans-serif;width:100%}.container{margin:auto;width:1440px}header{height:118px;display:flex;justify-content:space-between}.wrapper{max-width:1280px;margin:auto}.logo-image{margin:auto auto auto 0}.main-nav{margin:auto 0 auto auto}.nav-element{text-decoration:none;font-weight:400;color:#000;margin-left:140px}.buttonn,.buttonnn{width:80px;height:46px}.buttonn{margin-left:143px;background-color:#fff;border:#000;border-radius:8px;border-color:#000;color:#000;font-size:16px}.buttonnn{margin-left:16px;background-color:#16133e;border-radius:5;color:#fff}h1{vertical-align:text-top;font-size:56px;margin-left:156px;line-height:68px}.freehand-your-brand-with-a-beautiful-website p{font-family:'Roboto',sans-serif;font-weight:regular;margin-left:156px;line-height:36px;text-align:left;font-size:19px;margin-top:25px}.freehand-your-brand-with-a-beautiful-website button{font-family:'Roboto',sans-serif;font-weight:medium;text-align:left;font-size:16px;margin-top:51px}.freehand-your-brand-with-a-beautiful-website img{margin-left:698px;margin-top:-550px}.our-services h5,.our-services-images h5{text-align:left;font-size:16px;color:#87a1b6}.our-services h5{margin-left:180px;margin-top:184px}.our-services h2,.our-services p,h1{font-family:'Nunito Sans',sans-serif;font-weight:SemiBold;text-align:left}.our-services h2,.our-services p{margin-left:180px;font-size:40px}.our-services h5,.our-services p{font-family:'Roboto',sans-serif;font-weight:regular}.our-services p{font-size:18px;color:#5a7184}.cards{display:flex;justify-content:space-around;flex-direction:row;align-items:center}.onecard{display:block;text-align:center;margin-left:auto;margin-right:auto}.our-services-images h5{margin-left:159px;margin-top:145px}.Choose-the-plan-that’s-right-for-your-business h2,.our-services-images h2,.our-services-images p{font-family:'Nunito Sans',sans-serif;font-weight:SemiBold;margin-left:159px;text-align:left;font-size:40px}.our-services-images h5,.our-services-images p{font-family:'Roboto',sans-serif;font-weight:regular}.our-services-images p{font-size:18px;margin-bottom:91px;color:#5a7184}.cards-images{display:flex;justify-content:space-around;flex-direction:row;align-items:center}.onecard-images{display:block;text-align:center;margin-left:159px;margin-right:47px}.Choose-the-plan-that’s-right-for-your-business p,.bottom-left{font-family:'Roboto',sans-serif;font-weight:regular;text-align:left}.bottom-left{position:absolute;color:#fff;font-size:36px;margin-top:344px;margin-left:48px}.onecard-images2{display:block;text-align:center;margin-left:47px;margin-right:124px}.text-first,.text-second{position:absolute;color:#fff;font-family:'Roboto',sans-serif;font-weight:regular;font-size:36px;margin-top:344px;margin-left:48px}.text-second{margin-top:384px}.Choose-the-plan-that’s-right-for-your-business h2{margin-left:149px;margin-top:193px}.Choose-the-plan-that’s-right-for-your-business p{font-size:18px;margin-top:15px;margin-left:149px;color:#5a7184}.cards-new{display:flex;justify-content:space-around;flex-direction:row;align-items:center}.image-new-1,.image-new-2,.image-new-3{height:4px;width:362px;display:block;margin:84px auto auto 151px}.image-new-2,.image-new-3{margin:84px auto auto 26px}.image-new-3{margin:84px 151px auto auto}.cards-new-1 .p1,.cards-new-2 .p2,.cards-new-3 .p3{font-family:'Roboto',sans-serif;font-weight:regular;text-align:center;font-size:24px;margin-top:54px;margin-bottom:31px}.cards-new-1 .p11,.cards-new-2 .p22,.cards-new-3 .p33{font-family:'Roboto',sans-serif;font-weight:700;text-align:center;font-size:40px;margin-bottom:4px;color:#0593fa}.cards-new-2 .p22,.cards-new-3 .p33{color:#56cbae}.cards-new-3 .p33{color:#fa6770}.cards-new-1 .p111,.cards-new-1 .p1111,.cards-new-2 .p222,.cards-new-2 .p2222,.cards-new-3 .p333,.cards-new-3 .p3333{font-family:'Roboto',sans-serif;font-weight:regular;text-align:center;font-size:16px;margin-bottom:32px;color:#87a1b6}.cards-new-1 .p1111,.cards-new-2 .p2222,.cards-new-3 .p3333{margin-bottom:54px}.cards-new-1 .button{margin:0 auto}.buttons,.footer{display:flex;justify-content:space-around;flex-direction:row;align-items:center}.requeest-further-information h3{text-align:center;font-size:40px;padding-bottom:42px}.buttonsumbit{text-align:center}.fields{margin-left:370px;margin-right:370px}.checkbox{margin-left:370px;margin-top:30px;margin-bottom:43px}.line1,.line2{color:#fff}.line2{margin-top:130px}.line3{margin-top:90px}.line3,.line4{color:#fff}.line2 ul{text-decoration:none}.line2 ul,.line3 ul,.line4 ul{list-style-type:none}.line2 a,.line3 a,.line4 a{color:#fff;text-decoration:none;line-height:50px}.last-line{margin-bottom:50px;background-color:#16143d}.modal{display:inline;width:320px;padding:20px 40px;background-color:#fff;border-radius:5px;min-height:100px;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);box-shadow:0 30px 50px rgba(0,0,0,.7)}.modal-close{width:22px;height:22px;border:0;background-color:transparent;cursor:pointer;position:absolute;top:25px;right:25px}.modal-close::after,.modal-close::before{content:'';position:absolute;width:19px;height:3px;background-color:gray;top:10px;left:2px}.modal-close::after{transform:rotate(45deg)}.modal-close::before{transform:rotate(-45deg)}.hidden{display:none}.b-auth-form .b-popup-h{margin-top:5px;margin-bottom:10px;padding:o;font-size:18px;font-weight:400;line-height:1}.b-auth-form .b-hold{margin-top:20px;margin-bottom:20px}.b-hold{margin:0 5px 20px}.b-auth-form .b-hold--add{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;margin-bottom:0}.b-auth-recall{color:#4a90e2}.login-checkbox{position:relative;cursor:pointer;padding-left:30px}.login-checkbox input [type=checkbox]+.checkbox-indicator{position:absolute;top:0;left:opx;width:15px;height:15px;border:2px solid #000}.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::after,.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::before{content:'';position:absolute;top:10px;left:1px;width:15px;height:2px;background-color:#4a90e2}.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::before{transform:rotate(45deg)}.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::after{transform:rotate(-45deg)}
+body,header {
+    background-color: #fff
+}
+
+body {
+    font-family: 'Roboto',sans-serif;
+    width: 100%
+}
+
+.container {
+    margin: auto;
+    width: 1440px
+}
+
+header {
+    height: 118px;
+    display: flex;
+    justify-content: space-between
+}
+
+.wrapper {
+    max-width: 1280px;
+    margin: auto
+}
+
+.logo-image {
+    margin: auto auto auto 0
+}
+
+.main-nav {
+    margin: auto 0 auto auto
+}
+
+.nav-element {
+    text-decoration: none;
+    font-weight: 400;
+    color: #000;
+    margin-left: 140px
+}
+
+.buttonn,.buttonnn {
+    width: 80px;
+    height: 46px
+}
+
+.buttonn {
+    margin-left: 143px;
+    background-color: #fff;
+    border: #000;
+    border-radius: 8px;
+    border-color: #000;
+    color: #000;
+    font-size: 16px
+}
+
+.buttonnn {
+    margin-left: 16px;
+    background-color: #16133e;
+    border-radius: 5;
+    color: #fff
+}
+
+h1 {
+    vertical-align: text-top;
+    font-size: 56px;
+    margin-left: 156px;
+    line-height: 68px
+}
+
+.freehand-your-brand-with-a-beautiful-website p {
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular;
+    margin-left: 156px;
+    line-height: 36px;
+    text-align: left;
+    font-size: 19px;
+    margin-top: 25px
+}
+
+.freehand-your-brand-with-a-beautiful-website button {
+    font-family: 'Roboto',sans-serif;
+    font-weight: medium;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 51px
+}
+
+.freehand-your-brand-with-a-beautiful-website img {
+    margin-left: 698px;
+    margin-top: -550px
+}
+
+.our-services h5,.our-services-images h5 {
+    text-align: left;
+    font-size: 16px;
+    color: #87a1b6
+}
+
+.our-services h5 {
+    margin-left: 180px;
+    margin-top: 184px
+}
+
+.our-services h2,.our-services p,h1 {
+    font-family: 'Nunito Sans',sans-serif;
+    font-weight: SemiBold;
+    text-align: left
+}
+
+.our-services h2,.our-services p {
+    margin-left: 180px;
+    font-size: 40px
+}
+
+.our-services h5,.our-services p {
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular
+}
+
+.our-services p {
+    font-size: 18px;
+    color: #5a7184
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center
+}
+
+.onecard {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.our-services-images h5 {
+    margin-left: 159px;
+    margin-top: 145px
+}
+
+.Choose-the-plan-that’s-right-for-your-business h2,.our-services-images h2,.our-services-images p {
+    font-family: 'Nunito Sans',sans-serif;
+    font-weight: SemiBold;
+    margin-left: 159px;
+    text-align: left;
+    font-size: 40px
+}
+
+.our-services-images h5,.our-services-images p {
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular
+}
+
+.our-services-images p {
+    font-size: 18px;
+    margin-bottom: 91px;
+    color: #5a7184
+}
+
+.cards-images {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center
+}
+
+.onecard-images {
+    display: block;
+    text-align: center;
+    margin-left: 159px;
+    margin-right: 47px
+}
+
+.Choose-the-plan-that’s-right-for-your-business p,.bottom-left {
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular;
+    text-align: left
+}
+
+.bottom-left {
+    position: absolute;
+    color: #fff;
+    font-size: 36px;
+    margin-top: 344px;
+    margin-left: 48px
+}
+
+.onecard-images2 {
+    display: block;
+    text-align: center;
+    margin-left: 47px;
+    margin-right: 124px
+}
+
+.text-first,.text-second {
+    position: absolute;
+    color: #fff;
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular;
+    font-size: 36px;
+    margin-top: 344px;
+    margin-left: 48px
+}
+
+.text-second {
+    margin-top: 384px
+}
+
+.Choose-the-plan-that’s-right-for-your-business h2 {
+    margin-left: 149px;
+    margin-top: 193px
+}
+
+.Choose-the-plan-that’s-right-for-your-business p {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 149px;
+    color: #5a7184
+}
+
+.cards-new {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center
+}
+
+.image-new-1,.image-new-2,.image-new-3 {
+    height: 4px;
+    width: 362px;
+    display: block;
+    margin: 84px auto auto 151px
+}
+
+.image-new-2,.image-new-3 {
+    margin: 84px auto auto 26px
+}
+
+.image-new-3 {
+    margin: 84px 151px auto auto
+}
+
+.cards-new-1 .p1,.cards-new-2 .p2,.cards-new-3 .p3 {
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 54px;
+    margin-bottom: 31px
+}
+
+.cards-new-1 .p11,.cards-new-2 .p22,.cards-new-3 .p33 {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 4px;
+    color: #0593fa
+}
+
+.cards-new-2 .p22,.cards-new-3 .p33 {
+    color: #56cbae
+}
+
+.cards-new-3 .p33 {
+    color: #fa6770
+}
+
+.cards-new-1 .p111,.cards-new-1 .p1111,.cards-new-2 .p222,.cards-new-2 .p2222,.cards-new-3 .p333,.cards-new-3 .p3333 {
+    font-family: 'Roboto',sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 32px;
+    color: #87a1b6
+}
+
+.cards-new-1 .p1111,.cards-new-2 .p2222,.cards-new-3 .p3333 {
+    margin-bottom: 54px
+}
+
+.cards-new-1 .button {
+    margin: 0 auto
+}
+
+.buttons,.footer {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center
+}
+
+.requeest-further-information h3 {
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 42px
+}
+
+.buttonsumbit {
+    text-align: center
+}
+
+.fields {
+    margin-left: 370px;
+    margin-right: 370px
+}
+
+.checkbox {
+    margin-left: 370px;
+    margin-top: 30px;
+    margin-bottom: 43px
+}
+
+.line1,.line2 {
+    color: #fff
+}
+
+.line2 {
+    margin-top: 130px
+}
+
+.line3 {
+    margin-top: 90px
+}
+
+.line3,.line4 {
+    color: #fff
+}
+
+.line2 ul {
+    text-decoration: none
+}
+
+.line2 ul,.line3 ul,.line4 ul {
+    list-style-type: none
+}
+
+.line2 a,.line3 a,.line4 a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 50px
+}
+
+.last-line {
+    margin-bottom: 50px;
+    background-color: #16143d
+}
+
+.modal {
+    display: inline;
+    width: 320px;
+    padding: 20px 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    min-height: 100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0 30px 50px rgba(0,0,0,.7)
+}
+
+.modal-close {
+    width: 22px;
+    height: 22px;
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    top: 25px;
+    right: 25px
+}
+
+.modal-close::after,.modal-close::before {
+    content: '';
+    position: absolute;
+    width: 19px;
+    height: 3px;
+    background-color: gray;
+    top: 10px;
+    left: 2px
+}
+
+.modal-close::after {
+    transform: rotate(45deg)
+}
+
+.modal-close::before {
+    transform: rotate(-45deg)
+}
+
+.hidden {
+    display: none
+}
+
+.b-auth-form .b-popup-h {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: o;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1
+}
+
+.b-auth-form .b-hold {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.b-hold {
+    margin: 0 5px 20px
+}
+
+.b-auth-form .b-hold--add {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 0
+}
+
+.b-auth-recall {
+    color: #4a90e2
+}
+
+.login-checkbox {
+    position: relative;
+    cursor: pointer;
+    padding-left: 30px
+}
+
+.login-checkbox input [type=checkbox]+.checkbox-indicator {
+    position: absolute;
+    top: 0;
+    left: opx;
+    width: 15px;
+    height: 15px;
+    border: 2px solid #000
+}
+
+.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::after,.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::before {
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: 1px;
+    width: 15px;
+    height: 2px;
+    background-color: #4a90e2
+}
+
+.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::before {
+    transform: rotate(45deg)
+}
+
+.login-checkbox input[type=checkbox]:checked+.checkbox-indicator::after {
+    transform: rotate(-45deg)
+}

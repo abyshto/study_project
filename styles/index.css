@@ -608,3 +608,7 @@ margin-bottom: 31px;
         +.checkbox-indicator::after{
             transform: rotate(-45deg);
         }
+
+        .modal.hidden{
+            display: none;
+        }

@@ -275,4 +275,16 @@
     </div>
 </section>
 </body>
+<script>
+    var loginButton = document.querySelector('.login-button');
+    var closeButton = document.querySelector(".modal-close");
+    loginButton.onclick = () =>{
+        var dialog = document.querySelector('.modal');
+        dialog.classList.remove("hidden")
+    }
+    closeButton.onclick = () =>{
+        var dialog = document.querySelector('.modal');
+        dialog.classList.add("hidden")
+    }
+</script>
 </html>

@@ -11,6 +11,11 @@ body{
     width: 1440px;
 }
 
+.containe.img{
+    width: 195px;
+    height: 28px;
+}
+
 header{
     background-color: #ffffff;
     height: 118px;
